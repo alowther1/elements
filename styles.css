@@ -1,0 +1,73 @@
+/* Elements */
+
+body {
+	background-color: pink;
+	color: black;
+	font-family: sans-serif;
+	line-height: 0;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.triangle {
+	top: 30%;
+	left: 55%;
+	border-left: .5em solid transparent;
+	border-right: .5em solid transparent;
+	border-bottom: 2em solid;
+	color: orange;
+	position:absolute;
+	transform: rotate(90deg);
+}
+
+.circle5 {
+    width: .7em;
+    height: .7em;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 53%;
+    top: 29%;
+}
+
+.circle4 {
+    width: .7em;
+    height: .7em;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 55%;
+    top: 29%;
+}
+
+.circle1 {
+    width: 6em;
+    height: 6em;
+    background-color: purple;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 27%;
+}
+
+.circle2 {
+    width: 7em;
+    height: 7em;
+    background-color: purple;
+    border-radius: 50%;
+    position: absolute;
+    left: 49%;
+    top: 36%;
+}
+.circle3 {
+    width: 8em;
+    height: 8em;
+    background-color: purple;
+    border-radius: 50%;
+    position: absolute;
+    left: 48%;
+    top: 47%;
+}
+
+
